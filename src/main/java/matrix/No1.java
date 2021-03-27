@@ -1,4 +1,6 @@
-
+/// Muhammad Reziq Darusman
+/// 20090127
+/// 2B
 package matrix;
 
 public class No1 {
