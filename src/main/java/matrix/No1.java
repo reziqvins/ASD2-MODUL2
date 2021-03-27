@@ -15,9 +15,9 @@ public class No1 {
         matriks[2][0] = 37;
         matriks[2][1] = 29;
         matriks[2][2] = 20;
-        for (int f = 0; f < matriks.length; f++) {
-            for (int r = 0; r < matriks[0].length; r++) {
-                System.out.print(matriks[f][r]+ "  ");   
+        for (int r = 0; r < matriks.length; r++) {
+            for (int v = 0; v < matriks[0].length; v++) {
+                System.out.print(matriks[r][v]+ "  ");   
             }
             System.out.println();   
         }
